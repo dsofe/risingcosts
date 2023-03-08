@@ -1,32 +1,3 @@
-# risingcosts
-Rising Costs summary
+# README
 
-<br>
-
-[Analytical summary]()  
-![maintenance](https://img.shields.io/badge/Status-Deprecated-red.svg) <!-- no link -->
-
-<br>  
-
-<!-- 
-[Data]()  
-![maintenance](https://img.shields.io/badge/Status-Deprecated-red.svg) 
--->
- 
-[Analytical limitations]()  
-![maintenance](https://img.shields.io/badge/Status-Deprecated-red.svg) <!-- no link -->
-
-<br>
-
-[Research product options]()  
-![maintenance](https://img.shields.io/badge/Status-Active-green.svg) <!-- no link -->
-
-<br>
-
-[Primer on BLS restricted data access]()  
-![maintenance](https://img.shields.io/badge/Status-Active-green.svg) <!-- no link -->
-
-<br>
-
-[Research checklist for BLS restricted data access application]()  
-![maintenance](https://img.shields.io/badge/Status-Active-green.svg) <!-- no link -->
+A project space with hyperlinks to project files.
