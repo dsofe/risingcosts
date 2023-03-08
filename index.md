@@ -30,6 +30,9 @@
 [Research checklist for BLS restricted data access application]()  
 ![maintenance](https://img.shields.io/badge/Status-Active-green.svg) <!-- no link -->
 
-<footer>
- Last updated: 03/08/23
- </footer>
+<br>
+<br>
+<br>
+<br>
+<br>
+Last updated: 03/08/23
