@@ -1,18 +1,32 @@
 # risingcosts
 Rising Costs summary
 
+<br>
 
 [Analytical summary]()  
-[![Maintenance](https://img.shields.io/badge/Status-Deprecated-red.svg)](https://github.com/dsofe/risingcosts/edit/main/README.md) // change link
+![maintenance](https://img.shields.io/badge/Status-Deprecated-red.svg) <!-- no link -->
 
-[Analytical summary]()  
-[![Maintenance](https://img.shields.io/badge/Status-Deprecated-red.svg)](https://github.com/dsofe/risingcosts/edit/main/README.md)    // change link
+<br>  
 
-[Analytical summary]()  
-[![Maintenance](https://img.shields.io/badge/Status-Deprecated-red.svg)](https://github.com/dsofe/risingcosts/edit/main/README.md)   // change link 
+<!-- 
+[Data]()  
+![maintenance](https://img.shields.io/badge/Status-Deprecated-red.svg) 
+-->
+ 
+[Analytical limitations]()  
+![maintenance](https://img.shields.io/badge/Status-Deprecated-red.svg) <!-- no link -->
 
-[Analytical summary]()  
-[![Maintenance](https://img.shields.io/badge/Status-Active-green.svg)](https://github.com/dsofe/risingcosts/edit/main/README.md)   // change link 
+<br>
 
-[Analytical summary]()  
-[![Maintenance](https://img.shields.io/badge/Status-Active-green.svg)](https://github.com/dsofe/risingcosts/edit/main/README.md) // change link    
+[Research product options]()  
+![maintenance](https://img.shields.io/badge/Status-Active-green.svg) <!-- no link -->
+
+<br>
+
+[Primer on BLS restricted data access]()  
+![maintenance](https://img.shields.io/badge/Status-Active-green.svg) <!-- no link -->
+
+<br>
+
+[Research checklist for BLS restricted data access application]()  
+![maintenance](https://img.shields.io/badge/Status-Active-green.svg) <!-- no link -->
